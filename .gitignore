@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+tickets.csv
 
 # Virtual environments
 .venv
